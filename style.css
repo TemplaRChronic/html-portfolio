@@ -1,0 +1,39 @@
+
+html{
+    background-color: aqua;
+ }
+
+    h1{
+        color: blue;
+        background-color: azure;
+        font-family: fantasy;    
+    }
+   .blue-sex{
+    color: blue;
+    background-color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}     
+   .birth{
+    color: blue;
+    background-color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
+.hobbies{
+    font-size: 20px;
+}
+.contactme{
+    font-size: 20px;
+}
+.align{
+    text-align: center;
+    
+}
+.summary{
+    font-family: cursive;
+}
+ul{
+    font-size: 18px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
